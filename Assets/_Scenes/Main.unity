@@ -1827,7 +1827,7 @@ MeshParticleEmitter:
   minSize: 1
   maxSize: 1.29999995
   minEnergy: 3
-  maxEnergy: 5
+  maxEnergy: 3
   minEmission: 50
   maxEmission: 75
   worldVelocity: {x: 0, y: 0, z: 0}
@@ -1839,7 +1839,7 @@ MeshParticleEmitter:
   rndAngularVelocity: .460000008
   rndRotation: 1
   Simulate in Worldspace?: 1
-  m_OneShot: 1
+  m_OneShot: 0
   m_InterpolateTriangles: 0
   m_Systematic: 0
   m_MinNormalVelocity: 0
@@ -2278,8 +2278,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 933881620}
-  m_LocalRotation: {x: .159467921, y: .684371352, z: .157282591, w: -.693879008}
-  m_LocalPosition: {x: 58.8376007, y: 23.1809387, z: 129.455307}
+  m_LocalRotation: {x: -.707106829, y: 0, z: 0, w: .707106829}
+  m_LocalPosition: {x: 0, y: -480.165894, z: 4609.29785}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

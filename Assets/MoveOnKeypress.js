@@ -3,9 +3,9 @@
 
 function Update () {
 
-		if (Input.GetKeyDown(KeyCode.o)){
+		if (Input.GetKeyDown(KeyCode.O)){
 
-			animation.play("Take 001", PlayMode.StopAll);
+			animation.Play("Take 001", PlayMode.StopAll);
 
 		}
 

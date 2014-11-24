@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: 55c4a484838894267b4b7c00363e12c0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Big_Ball_Joint1
+    100002: Big_Ball_Joint2
+    100004: Big_Ball_Joint3
+    100006: Big_Ball_Joint4
+    100008: Big_Ball_Joint5
+    100010: Character1_Ctrl_ChestEndEffector
+    100012: Character1_Ctrl_ChestOriginEffector
+    100014: Character1_Ctrl_Head
+    100016: Character1_Ctrl_HeadEffector
+    100018: Character1_Ctrl_Hips
+    100020: Character1_Ctrl_HipsEffector
+    100022: Character1_Ctrl_LeftAnkleEffector
+    100024: Character1_Ctrl_LeftArm
+    100026: Character1_Ctrl_LeftElbowEffector
+    100028: Character1_Ctrl_LeftFingerBase
+    100030: Character1_Ctrl_LeftFoot
+    100032: Character1_Ctrl_LeftFootEffector
+    100034: Character1_Ctrl_LeftForeArm
+    100036: Character1_Ctrl_LeftHand
+    100038: Character1_Ctrl_LeftHandEffector
+    100040: Character1_Ctrl_LeftHandThumb1
+    100042: Character1_Ctrl_LeftHandThumbEffector
+    100044: Character1_Ctrl_LeftHipEffector
+    100046: Character1_Ctrl_LeftInHandIndex
+    100048: Character1_Ctrl_LeftInHandThumb
+    100050: Character1_Ctrl_LeftKneeEffector
+    100052: Character1_Ctrl_LeftLeg
+    100054: Character1_Ctrl_LeftShoulder
+    100056: Character1_Ctrl_LeftShoulderEffector
+    100058: Character1_Ctrl_LeftToeBase
+    100060: Character1_Ctrl_LeftUpLeg
+    100062: Character1_Ctrl_LeftWristEffector
+    100064: Character1_Ctrl_Neck
+    100066: Character1_Ctrl_Neck1
+    100068: Character1_Ctrl_Reference
+    100070: Character1_Ctrl_RightAnkleEffector
+    100072: Character1_Ctrl_RightArm
+    100074: Character1_Ctrl_RightElbowEffector
+    100076: Character1_Ctrl_RightFingerBase
+    100078: Character1_Ctrl_RightFoot
+    100080: Character1_Ctrl_RightFootEffector
+    100082: Character1_Ctrl_RightForeArm
+    100084: Character1_Ctrl_RightHand
+    100086: Character1_Ctrl_RightHandEffector
+    100088: Character1_Ctrl_RightHandThumb1
+    100090: Character1_Ctrl_RightHandThumbEffector
+    100092: Character1_Ctrl_RightHipEffector
+    100094: Character1_Ctrl_RightInHandIndex
+    100096: Character1_Ctrl_RightInHandThumb
+    100098: Character1_Ctrl_RightKneeEffector
+    100100: Character1_Ctrl_RightLeg
+    100102: Character1_Ctrl_RightShoulder
+    100104: Character1_Ctrl_RightShoulderEffector
+    100106: Character1_Ctrl_RightToeBase
+    100108: Character1_Ctrl_RightUpLeg
+    100110: Character1_Ctrl_RightWristEffector
+    100112: Character1_Ctrl_Spine
+    100114: Character1_Ctrl_Spine1
+    100116: Character1_Ctrl_Spine2
+    100118: Component_2_1
+    100120: Component_3_1
+    100122: Elbow_and_Forearm1
+    100124: Elbow_and_Forearm2
+    100126: Foot_ankle1
+    100128: Foot_ankle2
+    100130: Forearm1
+    100132: Forearm2
+    100134: G_1_hair_style1
+    100136: Head
+    100138: HEAD1
+    100140: Head_1_1
+    100142: Head_and_Neck1
+    100144: HeadTop_End
+    100146: Hips
+    100148: Hull
+    100150: //RootNode
+    100152: Knee_shin1
+    100154: Knee_shin2
+    100156: LeftArm
+    100158: LeftFoot
+    100160: LeftFootToeBase_End
+    100162: LeftForeArm
+    100164: LeftHand
+    100166: LeftHandIndex1
+    100168: LeftHandIndex2
+    100170: LeftHandIndex3_End
+    100172: LeftHandThumb1
+    100174: LeftHandThumb2_End
+    100176: LeftInHandThumb
+    100178: LeftLeg
+    100180: LeftShoulder
+    100182: LeftToeBase
+    100184: LeftUpLeg
+    100186: lower_body1
+    100188: lower_torso1
+    100190: Manikin_en_cayak1
+    100192: Medium_Ball_Joint1
+    100194: Medium_Ball_Joint2
+    100196: Medium_Ball_Joint3
+    100198: Medium_Ball_Joint4
+    100200: Medium_Ball_Joint_2_1
+    100202: Medium_Ball_Joint_2_2
+    100204: Medium_Ball_Joint_2_3
+    100206: Medium_Ball_Joint_2_4
+    100208: Mesh33
+    100210: Model
+    100212: Neck
+    100214: Neck1
+    100216: Padles1
+    100218: RightArm
+    100220: RightFoot
+    100222: RightFootToeBase_End
+    100224: RightForeArm
+    100226: RightHand
+    100228: RightHandIndex1
+    100230: RightHandIndex2
+    100232: RightHandIndex3_End
+    100234: RightHandThumb1
+    100236: RightHandThumb2_End
+    100238: RightInHandThumb
+    100240: RightLeg
+    100242: RightShoulder
+    100244: RightToeBase
+    100246: RightUpLeg
+    100248: Shin1
+    100250: Shin2
+    100252: Shoulder_and_Upper_arm1
+    100254: Shoulder_and_Upper_arm2
+    100256: Small_ball_Joint1
+    100258: Small_ball_Joint2
+    100260: Small_ball_Joint3
+    100262: Small_ball_Joint4
+    100264: Spine
+    100266: Spine1
+    100268: Spine2
+    100270: thigh1
+    100272: thigh2
+    100274: Thigh___hip1
+    100276: Thigh___hip2
+    100278: Torso
+    100280: Torso1
+    100282: Upper_arm1
+    100284: Upper_arm2
+    100286: vincent_Casual_Male_Lod_1
+    100288: Waist1
+    100290: Wrist_hand1
+    100292: Wrist_hand2
+    400000: Big_Ball_Joint1
+    400002: Big_Ball_Joint2
+    400004: Big_Ball_Joint3
+    400006: Big_Ball_Joint4
+    400008: Big_Ball_Joint5
+    400010: Character1_Ctrl_ChestEndEffector
+    400012: Character1_Ctrl_ChestOriginEffector
+    400014: Character1_Ctrl_Head
+    400016: Character1_Ctrl_HeadEffector
+    400018: Character1_Ctrl_Hips
+    400020: Character1_Ctrl_HipsEffector
+    400022: Character1_Ctrl_LeftAnkleEffector
+    400024: Character1_Ctrl_LeftArm
+    400026: Character1_Ctrl_LeftElbowEffector
+    400028: Character1_Ctrl_LeftFingerBase
+    400030: Character1_Ctrl_LeftFoot
+    400032: Character1_Ctrl_LeftFootEffector
+    400034: Character1_Ctrl_LeftForeArm
+    400036: Character1_Ctrl_LeftHand
+    400038: Character1_Ctrl_LeftHandEffector
+    400040: Character1_Ctrl_LeftHandThumb1
+    400042: Character1_Ctrl_LeftHandThumbEffector
+    400044: Character1_Ctrl_LeftHipEffector
+    400046: Character1_Ctrl_LeftInHandIndex
+    400048: Character1_Ctrl_LeftInHandThumb
+    400050: Character1_Ctrl_LeftKneeEffector
+    400052: Character1_Ctrl_LeftLeg
+    400054: Character1_Ctrl_LeftShoulder
+    400056: Character1_Ctrl_LeftShoulderEffector
+    400058: Character1_Ctrl_LeftToeBase
+    400060: Character1_Ctrl_LeftUpLeg
+    400062: Character1_Ctrl_LeftWristEffector
+    400064: Character1_Ctrl_Neck
+    400066: Character1_Ctrl_Neck1
+    400068: Character1_Ctrl_Reference
+    400070: Character1_Ctrl_RightAnkleEffector
+    400072: Character1_Ctrl_RightArm
+    400074: Character1_Ctrl_RightElbowEffector
+    400076: Character1_Ctrl_RightFingerBase
+    400078: Character1_Ctrl_RightFoot
+    400080: Character1_Ctrl_RightFootEffector
+    400082: Character1_Ctrl_RightForeArm
+    400084: Character1_Ctrl_RightHand
+    400086: Character1_Ctrl_RightHandEffector
+    400088: Character1_Ctrl_RightHandThumb1
+    400090: Character1_Ctrl_RightHandThumbEffector
+    400092: Character1_Ctrl_RightHipEffector
+    400094: Character1_Ctrl_RightInHandIndex
+    400096: Character1_Ctrl_RightInHandThumb
+    400098: Character1_Ctrl_RightKneeEffector
+    400100: Character1_Ctrl_RightLeg
+    400102: Character1_Ctrl_RightShoulder
+    400104: Character1_Ctrl_RightShoulderEffector
+    400106: Character1_Ctrl_RightToeBase
+    400108: Character1_Ctrl_RightUpLeg
+    400110: Character1_Ctrl_RightWristEffector
+    400112: Character1_Ctrl_Spine
+    400114: Character1_Ctrl_Spine1
+    400116: Character1_Ctrl_Spine2
+    400118: Component_2_1
+    400120: Component_3_1
+    400122: Elbow_and_Forearm1
+    400124: Elbow_and_Forearm2
+    400126: Foot_ankle1
+    400128: Foot_ankle2
+    400130: Forearm1
+    400132: Forearm2
+    400134: G_1_hair_style1
+    400136: Head
+    400138: HEAD1
+    400140: Head_1_1
+    400142: Head_and_Neck1
+    400144: HeadTop_End
+    400146: Hips
+    400148: Hull
+    400150: //RootNode
+    400152: Knee_shin1
+    400154: Knee_shin2
+    400156: LeftArm
+    400158: LeftFoot
+    400160: LeftFootToeBase_End
+    400162: LeftForeArm
+    400164: LeftHand
+    400166: LeftHandIndex1
+    400168: LeftHandIndex2
+    400170: LeftHandIndex3_End
+    400172: LeftHandThumb1
+    400174: LeftHandThumb2_End
+    400176: LeftInHandThumb
+    400178: LeftLeg
+    400180: LeftShoulder
+    400182: LeftToeBase
+    400184: LeftUpLeg
+    400186: lower_body1
+    400188: lower_torso1
+    400190: Manikin_en_cayak1
+    400192: Medium_Ball_Joint1
+    400194: Medium_Ball_Joint2
+    400196: Medium_Ball_Joint3
+    400198: Medium_Ball_Joint4
+    400200: Medium_Ball_Joint_2_1
+    400202: Medium_Ball_Joint_2_2
+    400204: Medium_Ball_Joint_2_3
+    400206: Medium_Ball_Joint_2_4
+    400208: Mesh33
+    400210: Model
+    400212: Neck
+    400214: Neck1
+    400216: Padles1
+    400218: RightArm
+    400220: RightFoot
+    400222: RightFootToeBase_End
+    400224: RightForeArm
+    400226: RightHand
+    400228: RightHandIndex1
+    400230: RightHandIndex2
+    400232: RightHandIndex3_End
+    400234: RightHandThumb1
+    400236: RightHandThumb2_End
+    400238: RightInHandThumb
+    400240: RightLeg
+    400242: RightShoulder
+    400244: RightToeBase
+    400246: RightUpLeg
+    400248: Shin1
+    400250: Shin2
+    400252: Shoulder_and_Upper_arm1
+    400254: Shoulder_and_Upper_arm2
+    400256: Small_ball_Joint1
+    400258: Small_ball_Joint2
+    400260: Small_ball_Joint3
+    400262: Small_ball_Joint4
+    400264: Spine
+    400266: Spine1
+    400268: Spine2
+    400270: thigh1
+    400272: thigh2
+    400274: Thigh___hip1
+    400276: Thigh___hip2
+    400278: Torso
+    400280: Torso1
+    400282: Upper_arm1
+    400284: Upper_arm2
+    400286: vincent_Casual_Male_Lod_1
+    400288: Waist1
+    400290: Wrist_hand1
+    400292: Wrist_hand2
+    2300000: Mesh33
+    3300000: Mesh33
+    4300000: vincent_Casual_Male_Lod_1
+    4300002: Mesh33
+    7400000: left
+    7400002: right
+    7400004: idle
+    9500000: //RootNode
+    13700000: vincent_Casual_Male_Lod_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: left
+      takeName: kayak2
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Ctrl_Reference
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot/Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot/Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase/Character1_Ctrl_LeftInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb/Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1/Character1_Ctrl_Head
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase/Character1_Ctrl_RightInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb/Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootToeBase_End
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootToeBase_End
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Spine1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1/LeftHandThumb2_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head/HeadTop_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1/RightHandThumb2_End
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Model/Component_3_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1/Hull
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Medium_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Medium_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Medium_Ball_Joint_2_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Small_ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Medium_Ball_Joint_2_3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Small_ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/G_1_hair_style1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1/HEAD1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1/Big_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Medium_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Medium_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1/Mesh33
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Big_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Big_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/Big_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/thigh1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/Big_Ball_Joint5
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/thigh2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/lower_torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/Waist1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/Torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Medium_Ball_Joint_2_2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Small_ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Medium_Ball_Joint_2_4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Small_ball_Joint4
+        weight: 1
+      - path: vincent_Casual_Male_Lod_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: right
+      takeName: kayak2
+      firstFrame: 36
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Ctrl_Reference
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot/Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot/Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase/Character1_Ctrl_LeftInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb/Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1/Character1_Ctrl_Head
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase/Character1_Ctrl_RightInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb/Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootToeBase_End
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootToeBase_End
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Spine1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1/LeftHandThumb2_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head/HeadTop_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1/RightHandThumb2_End
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Model/Component_3_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1/Hull
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Medium_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Medium_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Medium_Ball_Joint_2_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Small_ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Medium_Ball_Joint_2_3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Small_ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/G_1_hair_style1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1/HEAD1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1/Big_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Medium_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Medium_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1/Mesh33
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Big_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Big_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/Big_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/thigh1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/Big_Ball_Joint5
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/thigh2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/lower_torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/Waist1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/Torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Medium_Ball_Joint_2_2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Small_ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Medium_Ball_Joint_2_4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Small_ball_Joint4
+        weight: 1
+      - path: vincent_Casual_Male_Lod_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: kayak2
+      firstFrame: 61
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Ctrl_Reference
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_LeftUpLeg/Character1_Ctrl_LeftLeg/Character1_Ctrl_LeftFoot/Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_RightUpLeg/Character1_Ctrl_RightLeg/Character1_Ctrl_RightFoot/Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftFingerBase/Character1_Ctrl_LeftInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_LeftShoulder/Character1_Ctrl_LeftArm/Character1_Ctrl_LeftForeArm/Character1_Ctrl_LeftHand/Character1_Ctrl_LeftInHandThumb/Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_Neck/Character1_Ctrl_Neck1/Character1_Ctrl_Head
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightFingerBase/Character1_Ctrl_RightInHandIndex
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_Hips/Character1_Ctrl_Spine/Character1_Ctrl_Spine1/Character1_Ctrl_Spine2/Character1_Ctrl_RightShoulder/Character1_Ctrl_RightArm/Character1_Ctrl_RightForeArm/Character1_Ctrl_RightHand/Character1_Ctrl_RightInHandThumb/Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Character1_Ctrl_Reference/Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootToeBase_End
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootToeBase_End
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Spine1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftInHandThumb/LeftHandThumb1/LeftHandThumb2_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/Neck/Neck1/Head/HeadTop_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3_End
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1
+        weight: 1
+      - path: Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightInHandThumb/RightHandThumb1/RightHandThumb2_End
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Model/Component_3_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1
+        weight: 1
+      - path: Model/Component_3_1/Component_2_1/Hull
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Forearm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm1/Medium_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Forearm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Elbow_and_Forearm2/Medium_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Medium_Ball_Joint_2_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle1/Small_ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Medium_Ball_Joint_2_3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Foot_ankle2/Small_ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/G_1_hair_style1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_1_1/HEAD1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Head_and_Neck1/Big_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Medium_Ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin1/Shin1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Medium_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Knee_shin2/Shin2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Padles1/Mesh33
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Big_Ball_Joint1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm1/Upper_arm1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Big_Ball_Joint3
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Shoulder_and_Upper_arm2/Upper_arm2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/Big_Ball_Joint4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip1/thigh1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/Big_Ball_Joint5
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Thigh___hip2/thigh2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/lower_torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/lower_body1/Waist1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Torso/Torso1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Medium_Ball_Joint_2_2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand1/Small_ball_Joint2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Medium_Ball_Joint_2_4
+        weight: 1
+      - path: Model/Component_3_1/Manikin_en_cayak1/Wrist_hand2/Small_ball_Joint4
+        weight: 1
+      - path: vincent_Casual_Male_Lod_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

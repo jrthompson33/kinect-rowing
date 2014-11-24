@@ -18,14 +18,15 @@ function OnTriggerEnter(other: Collider)
 
 function OnGUI()
 {
-	GUI.skin.label.fontSize  = 30;
 
+	
 	if(isStartLineCrossed)
-	{
+	{	
+		GUI.skin.label.fontSize  = 20;
+		GUI.contentColor = Color.black;
 		//Debug.Log("Crossed the start line " + isStartLineCrossed);
- 		GUI.Label(Rect(Screen.width - 300 ,Screen.height - 60 ,300,100), "Time: "+Mathf.Floor(Time.time - startTime)+" seconds");		
-	    GUI.Label(Rect(30 ,Screen.height - 60 ,300,100), "Coins Collected: "+ CoinPickup.coinCount);		
-
+ 		GUI.Label(Rect(Screen.width/2 - 130 ,20,300,100), "Time: "+Mathf.Floor(Time.time - startTime)+" seconds");		
+	    GUI.Label(Rect(Screen.width/2 - 290,20,300,100), "Coins: "+ CoinPickup.coinCount);		
 	
 	}
 }

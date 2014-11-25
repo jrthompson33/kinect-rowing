@@ -11,12 +11,12 @@ using UnityEngine;
 
 public class Buoyancy : MonoBehaviour
 {
-	//	public Ocean ocean;
-	
+	//	public Ocean ocean
 	public float density = 500;
 	public int slicesPerAxis = 2;
 	public bool isConcave = false;
 	public int voxelsLimit = 16;
+	public Vector3 centerOfMass;
 	
 	private const float DAMPFER = 0.1f;
 	private const float WATER_DENSITY = 1000;
@@ -70,7 +70,7 @@ public class Buoyancy : MonoBehaviour
 			Debug.LogWarning(string.Format("[Buoyancy.cs] Object \"{0}\" had no Rigidbody. Rigidbody has been added.", name));
 		}
 		//rigidbody.centerOfMass = new Vector3(0, -bounds.extents.y * 0f, 0) + transform.InverseTransformPoint(bounds.center);
-		rigidbody.centerOfMass = new Vector3(9f, 0.0f, -4f);
+		rigidbody.centerOfMass = centerOfMass;
 		voxels = SliceIntoVoxels(isMeshCollider && isConcave);
 		
 		// Restore original rotation and position

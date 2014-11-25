@@ -5780,6 +5780,7 @@ MonoBehaviour:
   slicesPerAxis: 2
   isConcave: 0
   voxelsLimit: 16
+  centerOfMass: {x: 0, y: 0, z: 0}
 --- !u!1 &1471985206
 GameObject:
   m_ObjectHideFlags: 0
@@ -7566,13 +7567,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 991dcd761dd814a0b9524ff4b6b175ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  kayaker: {fileID: 0}
   boundary:
     xMin: -100
     xMax: 100
     zMin: -5000
     zMax: 5000
   speed: .5
-  tilt: .100000001
+  turn: 0
+  adjust: 0
 --- !u!54 &1923557527
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7603,6 +7606,7 @@ MonoBehaviour:
   slicesPerAxis: 6
   isConcave: 0
   voxelsLimit: 16
+  centerOfMass: {x: 0, y: 0, z: 0}
 --- !u!1 &1928143348
 GameObject:
   m_ObjectHideFlags: 0

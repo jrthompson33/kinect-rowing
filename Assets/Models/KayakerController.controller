@@ -14,6 +14,12 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
+  - m_Name: Speed
+    m_Type: 3
+    m_DefaultFloat: 0
+    m_DefaultInt: 1
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 3
     m_Name: Base Layer
@@ -127,7 +133,7 @@ Transition:
   m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
-    m_ConditionEvent: 
+    m_ConditionEvent: Speed
     m_EventTreshold: 0
     m_ExitTime: .996311069
   - m_ConditionMode: 6
@@ -151,7 +157,7 @@ Transition:
   m_TransitionOffset: 0
   m_Conditions:
   - m_ConditionMode: 5
-    m_ConditionEvent: 
+    m_ConditionEvent: Speed
     m_EventTreshold: 0
     m_ExitTime: 1
   - m_ConditionMode: 6
@@ -183,7 +189,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: left
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400000, guid: 55c4a484838894267b4b7c00363e12c0, type: 3}
@@ -198,7 +204,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: right
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400002, guid: 55c4a484838894267b4b7c00363e12c0, type: 3}
@@ -238,22 +244,22 @@ StateMachine:
   m_ChildStateMachinePosition: []
   m_OrderedTransitions:
     data:
-      first: {fileID: 110240956}
+      first: {fileID: 0}
       second:
-      - {fileID: 110178523}
-    data:
-      first: {fileID: 110201995}
-      second:
-      - {fileID: 110161807}
+      - {fileID: 110135618}
     data:
       first: {fileID: 110200000}
       second:
       - {fileID: 110159376}
       - {fileID: 110126448}
     data:
-      first: {fileID: 0}
+      first: {fileID: 110201995}
       second:
-      - {fileID: 110135618}
+      - {fileID: 110161807}
+    data:
+      first: {fileID: 110240956}
+      second:
+      - {fileID: 110178523}
   m_MotionSetCount: 1
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}

@@ -1,18 +1,12 @@
 ﻿//Script to log the finish line trigger
 
-var totalTime = 0;
-var isFinishLineCrossed = false;
+static var totalTime = 0;
+static var isFinishLineCrossed = false;
 
 function OnTriggerEnter(other: Collider)
 {
-		Debug.Log("Finish line collider");
-//	if(other.CompareTag("Boat"))
-//	{
-		Debug.Log("Crossed the finish line " + other.name);
-		totalTime = Time.time - CrossedStartLine.startTime;
-		Debug.Log("Crossed the finish line " + Mathf.Floor(totalTime));
-		isFinishLineCrossed = true;
-	//}	
+	totalTime = Time.time - CrossedStartLine.startTime;
+	isFinishLineCrossed = true;
 }
 
 function OnGUI()
@@ -20,8 +14,27 @@ function OnGUI()
 	//Display the time taken on screen
 	if(isFinishLineCrossed)
 	{
-	   GUI.skin.label.fontSize  = 50;
- 	   GUI.Label(Rect((Screen.width - 1100)/2 ,Screen.height/2 ,Screen.width,Screen.height/2), "Congratulations, you won the game in " + Mathf.Floor(totalTime) + " seconds!!! And with " + CoinPickup.coinCount+" points");	
+		var w = 0.8;
+		var h = 0.2;
+		
+		var rect : Rect;
+		
+		rect.x = (Screen.width*(1-w))/2;
+		rect.y = (Screen.height*(1-h))/2;
+		rect.width = Screen.width*w;
+		rect.height = Screen.height*h;
+		
+		var fontSize = Screen.width * 0.025;
+
+		var style = GUI.skin.GetStyle("Label");
+		style.alignment = TextAnchor.MiddleCenter;
+		
+		var secondsDisplay = ((totalTime % 60) > 10) ? "" + Mathf.Floor(totalTime % 60) : "0" + Mathf.Floor(totalTime % 60);
+		var displayString = "Congrats! You finished in " + (Mathf.Floor(totalTime / 60))+":"+secondsDisplay+"! With " + CoinPickup.coinCount+" Points!";
+		
+		GUI.skin.label.fontSize  = fontSize;
+		GUI.contentColor = Color.black;
+		GUI.Label(rect, displayString, style);
 	} 
 	
 }

@@ -330,7 +330,7 @@ Material:
       data:
         first:
           name: _SpecularColor
-        second: {r: .301470578, g: .176357225, b: .0953179076, a: 1}
+        second: {r: .341911763, g: .415010124, b: .683823526, a: 1}
       data:
         first:
           name: _WorldLightDir
